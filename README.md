@@ -1,2 +1,2 @@
 # clichat
-clichat is a command line based chat server
+clichat is a command-line python based chat server
